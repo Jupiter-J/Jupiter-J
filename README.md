@@ -1,4 +1,19 @@
+ <div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Namju%20Kim&fontSize=70)
+
+
 ### Hi there 👋
+I'm studying Back-End Software.
+
+  <br>
+  
+  
+🌲 Blog :  https://velog.io/@jupiter-j 
+  
+📬 Email : jupitern404@gmail.com
+ 
+
 
 <!--
 **Jupiter-J/Jupiter-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +29,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  
+  
+  </div>
