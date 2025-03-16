@@ -4,7 +4,6 @@
 
 
 ### Hi there 👋
-I'm studying Back-End Software.
 
   <br>
   
